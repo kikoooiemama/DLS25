@@ -1,0 +1,2 @@
+Ссылка на папку с материалами:
+https://github.com/DeepLearningSchool/part_1_ml_cv/tree/main/week_03_composition_model_selection
